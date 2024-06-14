@@ -1,5 +1,6 @@
 # Jarvis 🤖
 Welcome to Jarvis, your personal AI assistant! 🚀
+![image](https://github.com/JuhiPathak23/JARVIS/assets/73741643/3cca7b3a-435c-467c-aeec-5c987f8acdf1)
 
 ## About
 Jarvis is a versatile and customizable virtual assistant designed to streamline your daily tasks and enhance productivity. With its intuitive interface and powerful features, Jarvis can assist with everything from managing your calendar 📅 and reminders ⏰ to providing real-time information updates 📰 and executing custom commands. Built using cutting-edge AI technologies, Jarvis is continuously evolving to meet your needs and adapt to new challenges. Whether you're a developer looking to integrate AI into your projects or simply seeking a smarter way to manage your digital life, Jarvis has you covered.
